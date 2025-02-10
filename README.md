@@ -17,7 +17,8 @@
 2. 赋予执行权限并运行脚本：
    chmod +x silver_linux_cleaner.sh
    sudo ./silver_linux_cleaner.sh
-   
+   注意:脚本名称可能会有变化
+
 ## 使用说明
 1. 确保您以root用户身份运行脚本。
 2. 脚本将自动执行内存和GPU优化。
