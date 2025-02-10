@@ -15,8 +15,8 @@
    git clone https://gitee.com/AY77-OP/Silver-linux-cleaner.git
    cd Silver-linux-cleaner
 2. 赋予执行权限并运行脚本：
-   chmod +x silver_linux_cleaner.sh
-   sudo ./silver_linux_cleaner.sh
+   chmod +x ./Catos_cleaner.sh
+   sudo ./Catos_cleaner.sh
    注意:脚本名称可能会有变化
 
 ## 使用说明
