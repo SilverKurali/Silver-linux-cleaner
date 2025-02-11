@@ -19,8 +19,8 @@
    sudo ./Catos_cleaner.sh
    注意:脚本名称可能会有变化
 3.关于catos_optimizer_gui.py文件
-  须要拥有python3环境
-  需要的依赖v
+  - **环境安装**须要拥有python3环境
+  - **依赖安装**
   ## Debian/Ubuntu sudo apt install python3-tk
   ## Arch/CatOS sudo pacman -S tk
 
