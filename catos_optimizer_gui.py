@@ -214,7 +214,7 @@ class CatOSOptimizerGUI:
 
     def catos_optimization(self):
         """针对CatOS的优化"""
-        self.log("[7/6] 针对CatOS的优化...")
+        self.log("针对CatOS的优化...")
         if self.is_catos():
             self.log("检测到CatOS系统，执行CatOS特定优化。")
             # 示例：清理AUR缓存
