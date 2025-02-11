@@ -18,7 +18,7 @@
    chmod +x ./Catos_cleaner.sh
    sudo ./Catos_cleaner.sh
    注意:脚本名称可能会有变化
-3.关于catos_optimizer_gui.py文件
+3. 关于catos_optimizer_gui.py文件
   - **环境安装**须要拥有python3环境
   - **依赖安装**
   ## Debian/Ubuntu sudo apt install python3-tk
