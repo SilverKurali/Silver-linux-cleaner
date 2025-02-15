@@ -13,12 +13,13 @@
 # 获取和使用教程
 1. 克隆本仓库到本地：
    git clone https://gitee.com/AY77-OP/Silver-linux-cleaner.git
+   git clone https://github.com/SilverKurali/Silver-linux-cleaner.git
    cd Silver-linux-cleaner
-2. 赋予执行权限并运行脚本：
+3. 赋予执行权限并运行脚本：
    chmod +x ./Catos_cleaner.sh
    sudo ./Catos_cleaner.sh
    注意:脚本名称可能会有变化
-3. 关于catos_optimizer_gui.py文件
+4. 关于catos_optimizer_gui.py文件
   - **环境安装**须要拥有python3环境
   - **依赖安装**
 1. Debian/Ubuntu sudo apt install python3-tk
