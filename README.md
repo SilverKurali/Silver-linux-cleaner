@@ -21,8 +21,8 @@
 3. 关于catos_optimizer_gui.py文件
   - **环境安装**须要拥有python3环境
   - **依赖安装**
-Ａ. Debian/Ubuntu sudo apt install python3-tk
-Ｂ. Arch/CatOS sudo pacman -Sy;sudo pacman -S tk
+1. Debian/Ubuntu sudo apt install python3-tk
+2. Arch/CatOS sudo pacman -Sy;sudo pacman -S tk
 
 # 使用说明
 1. 确保您以root用户身份运行脚本。
